@@ -1,4 +1,4 @@
-# Lesson-004ü
+# Lesson-004
 
 ## What We Learned
 
